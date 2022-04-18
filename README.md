@@ -1,1 +1,1 @@
-# ConnectionSystem-solidPrinciple
+# ConnectionSystem-AdapterDesignPattern
